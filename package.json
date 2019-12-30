@@ -19,5 +19,8 @@
   "homepage": "https://github.com/m1yh3m/circle.canvas.lib#readme",
   "devDependencies": {
     "jasmine": "^3.5.0"
+  },
+  "dependencies": {
+    "@m1yh3m/position.2d.canvas.lib": "^1.0.0"
   }
 }
